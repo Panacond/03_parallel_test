@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.14.1" class="java.beans.XMLDecoder">
+ <object class="support.TestData">
+  <void property="brand">
+   <string>MSI</string>
+  </void>
+  <void property="minPrice">
+   <int>5000</int>
+  </void>
+  <void property="product">
+   <string>Laptop</string>
+  </void>
+ </object>
+</java>
