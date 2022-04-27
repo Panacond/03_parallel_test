@@ -2,6 +2,7 @@ import org.apache.log4j.Logger;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+import org.testng.asserts.SoftAssert;
 import support.PropertiesReader;
 import support.TestData;
 import support.XmlTestData;
@@ -19,7 +20,8 @@ public class FirstCaseTest extends BaseTest {
     public void checkExpensiveGoods(){
         getStartPage().searchByKeyword(testData.getProduct());
         getSearchPage().implicitWait(5);
-        getSearchPage().clickCheckBoxMsi();
+        String brand = testData.getBrand();
+        getSearchPage().clickCheckBoxMsi(brand);
         getSearchPage().implicitWait(5);
         getSearchPage().clickPopUp();
         getSearchPage().clickPopUpExpensive();
@@ -30,7 +32,9 @@ public class FirstCaseTest extends BaseTest {
         getSearchPage().clickGoToBucket();
         Integer price = getBucketPage().getStringPrice();
         testData.setRealPrice(price);
-        Assert.assertTrue(price > testData.getMinPrice());
+        SoftAssert softAssert = new SoftAssert();
+        softAssert.assertTrue(price > testData.getMinPrice(), "Price in page low data price");
+        softAssert.assertAll();
         WriteXml(testData, properties.getResultData());
         logger.info("Test work!");
 

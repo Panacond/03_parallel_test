@@ -1,5 +1,6 @@
 package page;
 
+import org.apache.log4j.Logger;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -12,8 +13,8 @@ public class SearchPage extends BasePage {
     @FindBy(css = "input[class^='sidebar-search']")
     private WebElement searchTitle;
 
-    @FindBy(css = "a[data-id='MSI']")
-    private WebElement checkBoxTitle;
+    @FindBy(css = "a.checkbox-filter__link")
+    private List<WebElement> listCheckBoxTitle;
 
     @FindBy(css = "select[class]")
     private WebElement selectPopUp;
@@ -30,15 +31,29 @@ public class SearchPage extends BasePage {
     @FindBy(css = "button[class^='header__button ng-star-inserted header']")
     private WebElement goToBucket;
 
+    final static Logger logger = Logger.getLogger(SearchPage.class);
+
     public SearchPage(WebDriver driver){super(driver);}
+
+    public String getCorrectCss(String brand){
+        return "a[data-id='"+ brand + "']";
+    }
 
     public void searchByTitle(final String keyWord){
         searchTitle.sendKeys(keyWord + Keys.ENTER);
     }
 
-    public void clickCheckBoxMsi(){
-        checkBoxTitle.click();
+    public void clickCheckBoxMsi(String brand){
+        for (WebElement i: listCheckBoxTitle) {
+            String attributeText =  i.getAttribute("data-id");
+            if (attributeText.equals(brand)) {
+                i.click();
+                break;
+            }
+        }
+        logger.info("Not search item");
     }
+
 
     public void clickPopUp(){
         selectPopUp.click();

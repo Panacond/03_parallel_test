@@ -1,0 +1,12 @@
+2022-04-27 14:02:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 14:02:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 14:02:14 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 14:03:40 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 14:03:40 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 14:03:55 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 14:04:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 14:04:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 14:05:55 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 14:05:55 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 14:06:04 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 14:06:08 INFO  FirstCaseTest:checkExpensiveGoods:39 - Test work!
