@@ -8,7 +8,7 @@
    <int>5000</int>
   </void>
   <void property="product">
-   <string>Laptop</string>
+   <string>Ноутбук</string>
   </void>
  </object>
 </java>

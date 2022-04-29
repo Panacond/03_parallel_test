@@ -31,7 +31,15 @@ public class PropertiesReader {
         return property.getProperty("READ_INITIAL_DATA");
     }
 
+    public String getInitialListData(){
+        return property.getProperty("READ_INITIAL_LIST_DATA");
+    }
+
     public String getResultData(){
         return property.getProperty("WRITE_RESULT_DATA");
+    }
+
+    public String getResultListData(){
+        return property.getProperty("WRITE_RESULT_LIST_DATA");
     }
 }

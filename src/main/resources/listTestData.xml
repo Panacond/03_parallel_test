@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="11.0.14.1" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="support.TestData">
+    <void property="brand">
+     <string>MSI</string>
+    </void>
+    <void property="minPrice">
+     <int>5000</int>
+    </void>
+    <void property="product">
+     <string>ноутбук</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="support.TestData">
+    <void property="brand">
+     <string>Samsung</string>
+    </void>
+    <void property="minPrice">
+     <int>14000</int>
+    </void>
+    <void property="product">
+     <string>стиральная машина</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="support.TestData">
+    <void property="brand">
+     <string>Bosch</string>
+    </void>
+    <void property="minPrice">
+     <int>50000</int>
+    </void>
+    <void property="product">
+     <string>посудомоечная машина</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="support.TestData">
+    <void property="brand">
+     <string>Electrolux</string>
+    </void>
+    <void property="minPrice">
+     <int>20000</int>
+    </void>
+    <void property="product">
+     <string>робот пылесос</string>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="support.TestData">
+    <void property="brand">
+     <string>Xiaomi</string>
+    </void>
+    <void property="minPrice">
+     <int>17000</int>
+    </void>
+    <void property="product">
+     <string>смартфон</string>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

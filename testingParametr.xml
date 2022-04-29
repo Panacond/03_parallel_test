@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite1" verbose="1">
+    <parameter name="product" value="стиральная машина"/>
+    <parameter name="brand" value="Samsung"/>
+    <parameter name="minPrise" value="14000"/>
+    <test name="One test run">
+        <classes>
+            <class name="SuccessivelyCaseTest">
+                <methods>
+                    <include name="checkFlowDataXml"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

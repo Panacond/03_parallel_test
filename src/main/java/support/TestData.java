@@ -6,6 +6,7 @@ public class TestData {
     private Integer minPrice;
     private Integer realPrice;
     public TestData(){}
+
     public TestData(String product, String brand, Integer minPrice) {
         this.product = product;
         this.brand = brand;

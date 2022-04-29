@@ -16,7 +16,8 @@ public class SearchPage extends BasePage {
     @FindBy(css = "a.checkbox-filter__link")
     private List<WebElement> listCheckBoxTitle;
 
-    @FindBy(css = "select[class]")
+//    @FindBy(css = "select[class]")
+    @FindBy(css = "select[class^='select']")
     private WebElement selectPopUp;
 
     @FindBy(css = "option[value='2: expensive']")
@@ -54,8 +55,13 @@ public class SearchPage extends BasePage {
         logger.info("Not search item");
     }
 
+    public WebElement getSelectPopUp() {
+        return selectPopUp;
+    }
 
     public void clickPopUp(){
+//        waitPresenceOfElement(1000, selectPopUp);
+//        waitVisibilityOfElement(50000,selectPopUp);
         selectPopUp.click();
     }
 

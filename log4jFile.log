@@ -10,3 +10,825 @@
 2022-04-27 14:05:55 INFO  PropertiesReader:<init>:20 - Read config.properties
 2022-04-27 14:06:04 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
 2022-04-27 14:06:08 INFO  FirstCaseTest:checkExpensiveGoods:39 - Test work!
+2022-04-27 16:11:35 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 16:11:35 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 16:12:29 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 16:12:29 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 16:12:42 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 16:12:47 INFO  FirstCaseTest:checkExpensiveGoods:39 - Test work!
+2022-04-27 16:30:19 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 16:32:17 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 16:32:17 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 16:32:17 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 16:32:28 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 16:32:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 16:32:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 16:32:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 16:32:47 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 16:32:51 INFO  FirstCaseTest:checkExpensiveGoods:40 - Test work!
+2022-04-27 16:50:12 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 16:50:41 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 17:44:33 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 17:44:33 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 17:44:34 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:00:31 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:00:31 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:00:54 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:00:54 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:01:48 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:01:48 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:01:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:01:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:02:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:02:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:02:17 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:02:17 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:05:19 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:11:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:15:51 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:16:14 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:16:14 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:18:30 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:18:30 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:19:35 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:20:24 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:20:56 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:20:56 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:21:44 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:21:44 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:21:47 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:22:43 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:22:43 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:23:20 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:23:20 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:25:03 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:25:03 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:25:03 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:25:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:25:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:25:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:30:00 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:30:43 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:31:08 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:32:53 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:32:53 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:32:54 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:33:18 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 22:33:31 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 22:33:42 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 22:33:53 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 22:34:04 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 22:44:08 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:44:08 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:44:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:44:20 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 22:44:43 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 22:45:02 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 22:45:56 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:45:56 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:45:57 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:46:10 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:46:10 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:46:11 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:46:39 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:46:39 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:46:40 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:46:49 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 22:47:02 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 22:47:33 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:47:33 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:47:33 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:48:00 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:48:00 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:48:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:48:08 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:48:08 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:48:08 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:48:18 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 22:48:48 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:48:48 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:48:48 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:49:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:49:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:49:10 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:49:27 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:49:27 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:49:27 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:50:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:50:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 22:50:39 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:20:44 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:20:44 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:20:49 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:21:31 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:21:31 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:21:35 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:21:40 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 23:21:50 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 23:21:56 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 23:28:39 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:28:39 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:28:39 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:29:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:29:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:29:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:29:15 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 23:29:18 INFO  FirstCaseTest:checkExpensiveGood:62 - Test work!
+2022-04-27 23:31:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:31:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:31:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:31:24 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 23:32:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:32:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:32:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:32:23 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 23:32:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:32:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:32:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:33:01 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 23:33:30 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:33:30 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:33:30 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:33:40 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 23:34:12 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:34:12 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:34:12 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:34:24 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 23:35:32 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:35:32 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:35:32 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:35:42 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 23:36:14 INFO  FirstCaseTest:checkExpensiveGood2:84 - Test work!
+2022-04-27 23:36:47 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:36:47 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:36:47 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:36:56 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 23:37:51 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:37:51 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:37:51 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:38:00 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 23:38:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:38:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:38:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:38:56 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 23:39:21 INFO  FirstCaseTest:checkExpensiveGood2:84 - Test work!
+2022-04-27 23:39:41 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:39:41 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:39:41 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:39:51 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 23:39:59 INFO  FirstCaseTest:checkExpensiveGood2:84 - Test work!
+2022-04-27 23:40:10 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:40:10 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:40:10 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:40:20 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 23:41:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:41:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:41:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:42:12 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:42:12 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:42:12 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:42:21 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 23:43:24 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:43:24 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:43:24 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:43:35 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 23:45:24 INFO  FirstCaseTest:checkExpensiveGood2:85 - Test work!
+2022-04-27 23:47:23 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:47:23 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:47:23 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:47:33 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 23:47:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:47:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:47:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:48:00 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:48:00 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:48:00 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:48:11 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 23:49:18 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:49:18 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:49:18 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:49:27 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 23:49:30 INFO  FirstCaseTest:checkExpensiveGood2:85 - Test work!
+2022-04-27 23:50:12 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:50:12 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:50:16 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:50:40 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:50:40 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:50:44 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:51:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:51:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:51:14 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:52:18 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:52:18 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:52:19 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:53:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:53:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:53:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:53:32 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:53:32 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:53:33 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:57:19 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:57:19 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:57:19 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:58:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:58:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:58:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:58:10 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-27 23:58:14 INFO  FirstCaseTest:checkExpensiveGood:62 - Test work!
+2022-04-27 23:59:55 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:59:55 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-27 23:59:55 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:00:06 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 00:00:10 INFO  FirstCaseTest:checkExpensiveGoods:38 - Test work!
+2022-04-28 00:01:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:01:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:01:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:03:33 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:04:00 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:04:15 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:04:27 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:04:27 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:04:27 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:04:37 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 00:04:41 INFO  FirstCaseTest:checkExpensiveGoods:38 - Test work!
+2022-04-28 00:05:11 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:05:11 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:05:11 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:05:27 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 00:05:38 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 00:05:49 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 00:05:58 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 00:06:05 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 00:07:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:07:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:07:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:07:37 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:07:37 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:07:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:08:20 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:08:20 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:08:20 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:08:31 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:08:31 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:08:31 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:08:40 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:08:40 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:08:41 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:08:57 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:08:57 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:08:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:10:29 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:10:29 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:10:29 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:15:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:15:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 00:15:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:08:28 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:08:28 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:11:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:11:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:15:17 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:15:17 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:18:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:18:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:24:37 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:24:37 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:26:18 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:26:18 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:26:18 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:28:15 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:28:15 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:28:15 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:28:19 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:28:35 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:28:35 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:28:35 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:28:40 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:28:50 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:28:50 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:28:50 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:28:55 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:29:14 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:29:14 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:29:14 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:29:19 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:29:34 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:29:34 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:29:34 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:29:39 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:29:50 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:29:50 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:29:50 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:29:55 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:30:23 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:30:23 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:30:23 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:30:28 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:30:40 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:30:40 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:30:40 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:30:45 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:31:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:31:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:31:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:31:15 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:31:35 INFO  FirstCaseTest:checkExpensiveGood:60 - Test work!
+2022-04-28 12:31:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:31:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:31:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:31:57 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:32:22 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:32:22 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:32:22 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:32:27 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:32:38 INFO  FirstCaseTest:checkExpensiveGood:60 - Test work!
+2022-04-28 12:32:55 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:32:55 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:32:55 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:33:00 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:34:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:34:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:34:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:34:14 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:34:36 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:34:36 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:34:36 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:34:40 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:35:34 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:35:34 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:35:34 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:35:53 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:35:59 INFO  FirstCaseTest:checkExpensiveGoods:38 - Test work!
+2022-04-28 12:36:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:36:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:36:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:36:14 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:36:43 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:36:43 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:36:43 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:36:52 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:39:33 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:39:33 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:39:33 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:39:38 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:41:19 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:41:19 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:41:19 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:41:24 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:43:00 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:43:00 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:43:00 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:43:05 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:43:27 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:43:27 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:43:27 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:43:32 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:43:39 INFO  FirstCaseTest:checkExpensiveGoods:41 - Test work!
+2022-04-28 12:44:12 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:44:12 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:44:12 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:44:18 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:44:25 INFO  FirstCaseTest:checkExpensiveGood:64 - Test work!
+2022-04-28 12:44:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:44:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:44:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:45:10 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:45:10 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:45:14 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:45:23 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:45:30 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:46:00 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:46:00 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:46:05 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:46:14 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:46:23 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:47:02 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:47:02 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:47:07 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:47:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:47:30 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:47:36 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:48:21 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:48:21 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:48:25 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:48:32 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:48:37 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:48:47 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:49:54 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:49:54 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:49:59 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:50:07 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:50:15 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:50:31 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:50:31 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:50:35 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:50:43 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:50:54 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:51:34 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:51:34 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:51:39 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:51:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:51:49 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:51:59 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:52:36 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:52:36 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:52:41 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:52:48 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:52:51 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:52:58 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:53:23 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:53:23 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:53:28 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:53:35 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:53:38 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:53:47 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:54:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:54:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:54:44 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:54:50 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:54:54 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:55:04 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:55:31 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:55:31 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:55:36 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:55:43 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:55:47 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:55:55 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:56:19 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:56:19 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:56:23 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:56:30 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:56:34 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:56:44 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:57:54 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:57:54 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:57:58 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:58:21 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:58:26 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:58:44 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 12:59:47 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:59:47 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 12:59:51 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 13:00:03 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 13:00:14 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 13:00:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:00:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:01:04 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 13:01:16 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:01:20 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 13:01:36 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 13:02:14 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:02:14 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:02:14 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:04:48 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:04:48 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:11:17 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:11:17 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:14:35 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:14:36 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:15:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:15:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:15:44 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:15:56 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:16:12 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:16:53 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:17:21 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:17:23 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:17:23 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:18:32 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:18:32 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:18:33 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:18:33 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 13:18:38 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 13:18:54 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 13:19:10 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 13:19:25 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 13:19:41 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 14:24:32 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:24:32 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:24:32 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:25:04 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 14:25:11 INFO  FirstCaseTest:checkExpensiveGood:64 - Test work!
+2022-04-28 14:25:20 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 14:30:23 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:30:23 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:30:23 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:30:43 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 14:30:51 INFO  FirstCaseTest:checkExpensiveGoods:42 - Test work!
+2022-04-28 14:32:54 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:32:54 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:32:54 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:32:54 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:32:54 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:32:54 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:32:54 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:33:10 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 14:33:16 INFO  FirstCaseTest:checkExpensiveGood:65 - Test work!
+2022-04-28 14:33:28 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 14:33:35 INFO  FirstCaseTest:checkExpensiveGoods:42 - Test work!
+2022-04-28 14:47:19 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:47:19 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:47:25 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:47:25 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:48:16 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:48:16 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:48:17 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:48:17 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:51:40 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:51:56 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:51:56 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:51:56 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:51:56 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:52:10 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 14:52:40 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 14:52:59 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 14:53:16 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 14:53:36 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 14:54:29 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:54:29 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:54:36 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:54:36 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:55:24 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:55:35 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:55:35 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:55:35 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:55:35 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 14:55:42 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 14:56:00 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 14:56:18 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 14:56:34 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 14:56:50 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 22:42:27 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 22:42:27 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 22:42:27 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 22:42:28 INFO  ConvertTestListener:onStart:12 - Test Started....03_homework Thu Apr 28 22:42:28 EEST 2022
+2022-04-28 22:42:37 INFO  ConvertTestListener:onTestStart:21 - test checkExpensiveGood start
+2022-04-28 22:42:37 INFO  ConvertTestListener:onTestStart:22 - Priority of this method is 0
+2022-04-28 22:42:38 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 22:42:43 ERROR ConvertTestListener:onTestFailure:32 - 2Test [checkExpensiveGood] failed
+2022-04-28 22:42:43 ERROR ConvertTestListener:onTestFailure:35 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'akakiy-GL72-6QD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-109-generic', java.version: '11.0.14.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9e23d2456cf2cd9b3699c25ca75a5ae7, clickElement {id=da817c57-fe60-4bcc-a4c7-d2b7ae61db2f}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: /tmp/.com.google.Chrome.LneUGx}, goog:chromeOptions: {debuggerAddress: localhost:40083}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:40083/devtoo..., se:cdpVersion: 100.0.4896.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on LINUX (9e23d2456cf2cd9b3699c25ca75a5ae7)] -> css selector: button[class^='buy-button']]
+Session ID: 9e23d2456cf2cd9b3699c25ca75a5ae7
+2022-04-28 22:42:43 ERROR ConvertTestListener:onTestFailure:36 - Priority of this method is 0
+2022-04-28 22:42:43 INFO  ConvertTestListener:onFinish:17 - Test finished....Thu Apr 28 22:42:43 EEST 2022
+2022-04-28 22:53:34 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 22:53:34 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 22:53:34 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 22:53:34 INFO  ConvertTestListener:onStart:12 - Test Started....03_homework Thu Apr 28 22:53:34 EEST 2022
+2022-04-28 22:53:44 INFO  ConvertTestListener:onTestStart:21 - test checkExpensiveGood start
+2022-04-28 22:53:44 INFO  ConvertTestListener:onTestStart:22 - Priority of this method is 0
+2022-04-28 22:53:45 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 22:53:51 INFO  FirstCaseTest:checkExpensiveGood:74 - Test work!
+2022-04-28 22:53:51 INFO  ConvertTestListener:onTestSuccess:27 - test [checkExpensiveGood] Success
+2022-04-28 22:53:51 INFO  ConvertTestListener:onTestSuccess:28 - FirstCaseTest
+2022-04-28 22:53:51 INFO  ConvertTestListener:onFinish:17 - Test finished....Thu Apr 28 22:53:51 EEST 2022
+2022-04-28 22:54:17 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 22:54:17 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 22:54:17 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 22:54:17 INFO  ConvertTestListener:onStart:12 - Test Started....03_homework Thu Apr 28 22:54:17 EEST 2022
+2022-04-28 22:54:21 INFO  ConvertTestListener:onTestStart:21 - test checkExpensiveGood start
+2022-04-28 22:54:21 INFO  ConvertTestListener:onTestStart:22 - Priority of this method is 0
+2022-04-28 22:54:22 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 22:54:26 ERROR ConvertTestListener:onTestFailure:32 - 2Test [checkExpensiveGood] failed
+2022-04-28 22:54:26 ERROR ConvertTestListener:onTestFailure:35 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'akakiy-GL72-6QD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-109-generic', java.version: '11.0.14.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5de5352f99ec06b19f964018e1ec522b, isElementDisplayed {id=56bfd4c2-2241-4395-92e8-f21746a0be72}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: /tmp/.com.google.Chrome.Qjspwj}, goog:chromeOptions: {debuggerAddress: localhost:36511}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:36511/devtoo..., se:cdpVersion: 100.0.4896.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on LINUX (5de5352f99ec06b19f964018e1ec522b)] -> css selector: select[class]]
+Session ID: 5de5352f99ec06b19f964018e1ec522b
+2022-04-28 22:54:26 ERROR ConvertTestListener:onTestFailure:36 - Priority of this method is 0
+2022-04-28 22:54:26 INFO  ConvertTestListener:onFinish:17 - Test finished....Thu Apr 28 22:54:26 EEST 2022
+2022-04-28 23:05:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:05:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:05:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:05:46 INFO  ConvertTestListener:onStart:12 - Test Started....03_homework Thu Apr 28 23:05:46 EEST 2022
+2022-04-28 23:05:52 INFO  ConvertTestListener:onTestStart:21 - test checkExpensiveGood start
+2022-04-28 23:05:52 INFO  ConvertTestListener:onTestStart:22 - Priority of this method is 0
+2022-04-28 23:05:52 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 23:05:56 ERROR ConvertTestListener:onTestFailure:32 - 2Test [checkExpensiveGood] failed
+2022-04-28 23:05:56 ERROR ConvertTestListener:onTestFailure:35 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'akakiy-GL72-6QD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-109-generic', java.version: '11.0.14.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2b780f054dce0eb5292372e07fc27f80, isElementDisplayed {id=9c6a992c-053a-4d9c-ab21-6565e7cc1ea6}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: /tmp/.com.google.Chrome.g1xYRR}, goog:chromeOptions: {debuggerAddress: localhost:42227}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:42227/devtoo..., se:cdpVersion: 100.0.4896.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on LINUX (2b780f054dce0eb5292372e07fc27f80)] -> css selector: select[class]]
+Session ID: 2b780f054dce0eb5292372e07fc27f80
+2022-04-28 23:05:56 ERROR ConvertTestListener:onTestFailure:36 - Priority of this method is 0
+2022-04-28 23:05:56 INFO  ConvertTestListener:onFinish:17 - Test finished....Thu Apr 28 23:05:56 EEST 2022
+2022-04-28 23:06:51 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:06:51 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:06:51 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:06:51 INFO  ConvertTestListener:onStart:12 - Test Started....03_homework Thu Apr 28 23:06:51 EEST 2022
+2022-04-28 23:06:55 INFO  ConvertTestListener:onTestStart:21 - test checkExpensiveGood start
+2022-04-28 23:06:55 INFO  ConvertTestListener:onTestStart:22 - Priority of this method is 0
+2022-04-28 23:06:56 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 23:06:59 ERROR ConvertTestListener:onTestFailure:32 - 2Test [checkExpensiveGood] failed
+2022-04-28 23:06:59 ERROR ConvertTestListener:onTestFailure:35 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'akakiy-GL72-6QD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-109-generic', java.version: '11.0.14.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2dd339f5a3ae9457aca775c223334b91, clickElement {id=a3a7d670-2b11-4f2e-ab81-5a7727e4daf7}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: /tmp/.com.google.Chrome.EhsN5U}, goog:chromeOptions: {debuggerAddress: localhost:38999}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:38999/devtoo..., se:cdpVersion: 100.0.4896.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on LINUX (2dd339f5a3ae9457aca775c223334b91)] -> css selector: option[value='2: expensive']]
+Session ID: 2dd339f5a3ae9457aca775c223334b91
+2022-04-28 23:06:59 ERROR ConvertTestListener:onTestFailure:36 - Priority of this method is 0
+2022-04-28 23:07:00 INFO  ConvertTestListener:onFinish:17 - Test finished....Thu Apr 28 23:07:00 EEST 2022
+2022-04-28 23:07:48 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:07:48 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:07:48 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:07:48 INFO  ConvertTestListener:onStart:12 - Test Started....03_homework Thu Apr 28 23:07:48 EEST 2022
+2022-04-28 23:07:52 INFO  ConvertTestListener:onTestStart:21 - test checkExpensiveGood start
+2022-04-28 23:07:52 INFO  ConvertTestListener:onTestStart:22 - Priority of this method is 0
+2022-04-28 23:07:52 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 23:07:56 ERROR ConvertTestListener:onTestFailure:32 - 2Test [checkExpensiveGood] failed
+2022-04-28 23:07:56 ERROR ConvertTestListener:onTestFailure:35 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'akakiy-GL72-6QD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-109-generic', java.version: '11.0.14.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [57bf32a0c36aeeb7a27ddb7c73385457, isElementDisplayed {id=9b791d48-aa98-4773-aa37-37d138805fe1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: /tmp/.com.google.Chrome.id8EMZ}, goog:chromeOptions: {debuggerAddress: localhost:35183}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:35183/devtoo..., se:cdpVersion: 100.0.4896.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on LINUX (57bf32a0c36aeeb7a27ddb7c73385457)] -> css selector: select[class]]
+Session ID: 57bf32a0c36aeeb7a27ddb7c73385457
+2022-04-28 23:07:56 ERROR ConvertTestListener:onTestFailure:36 - Priority of this method is 0
+2022-04-28 23:07:56 INFO  ConvertTestListener:onFinish:17 - Test finished....Thu Apr 28 23:07:56 EEST 2022
+2022-04-28 23:08:11 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:08:11 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:08:11 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:08:12 INFO  ConvertTestListener:onStart:12 - Test Started....03_homework Thu Apr 28 23:08:12 EEST 2022
+2022-04-28 23:08:15 INFO  ConvertTestListener:onTestStart:21 - test checkExpensiveGood start
+2022-04-28 23:08:15 INFO  ConvertTestListener:onTestStart:22 - Priority of this method is 0
+2022-04-28 23:08:16 INFO  SearchPage:clickCheckBoxMsi:54 - Not search item
+2022-04-28 23:09:44 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:09:44 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:09:44 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:09:44 INFO  ConvertTestListener:onStart:12 - Test Started....03_homework Thu Apr 28 23:09:44 EEST 2022
+2022-04-28 23:09:49 INFO  ConvertTestListener:onTestStart:21 - test checkExpensiveGood start
+2022-04-28 23:09:49 INFO  ConvertTestListener:onTestStart:22 - Priority of this method is 0
+2022-04-28 23:09:49 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-28 23:09:52 ERROR ConvertTestListener:onTestFailure:32 - 2Test [checkExpensiveGood] failed
+2022-04-28 23:09:52 ERROR ConvertTestListener:onTestFailure:35 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'akakiy-GL72-6QD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-109-generic', java.version: '11.0.14.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6410cba8ed31303ff48b3f0403abafa2, isElementDisplayed {id=cb7f6c6b-f4c0-4755-b25d-34785868c228}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: /tmp/.com.google.Chrome.r4Ym97}, goog:chromeOptions: {debuggerAddress: localhost:45393}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:45393/devtoo..., se:cdpVersion: 100.0.4896.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on LINUX (6410cba8ed31303ff48b3f0403abafa2)] -> css selector: select[class^='select']]
+Session ID: 6410cba8ed31303ff48b3f0403abafa2
+2022-04-28 23:09:52 ERROR ConvertTestListener:onTestFailure:36 - Priority of this method is 0
+2022-04-28 23:09:52 INFO  ConvertTestListener:onFinish:17 - Test finished....Thu Apr 28 23:09:52 EEST 2022
+2022-04-28 23:10:37 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:10:37 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:10:37 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:10:37 INFO  ConvertTestListener:onStart:12 - Test Started....03_homework Thu Apr 28 23:10:37 EEST 2022
+2022-04-28 23:10:41 INFO  ConvertTestListener:onTestStart:21 - test checkExpensiveGood start
+2022-04-28 23:10:41 INFO  ConvertTestListener:onTestStart:22 - Priority of this method is 0
+2022-04-28 23:10:42 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-28 23:10:46 ERROR ConvertTestListener:onTestFailure:32 - 2Test [checkExpensiveGood] failed
+2022-04-28 23:10:46 ERROR ConvertTestListener:onTestFailure:35 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'akakiy-GL72-6QD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-109-generic', java.version: '11.0.14.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dc8a8e13963cca1ed77979b09f02588a, clickElement {id=c3430161-e6d8-4dd8-a6e5-7bcb733e25ba}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: /tmp/.com.google.Chrome.c3j5vg}, goog:chromeOptions: {debuggerAddress: localhost:33237}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:33237/devtoo..., se:cdpVersion: 100.0.4896.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on LINUX (dc8a8e13963cca1ed77979b09f02588a)] -> css selector: select[class^='select']]
+Session ID: dc8a8e13963cca1ed77979b09f02588a
+2022-04-28 23:10:46 ERROR ConvertTestListener:onTestFailure:36 - Priority of this method is 0
+2022-04-28 23:10:46 INFO  ConvertTestListener:onFinish:17 - Test finished....Thu Apr 28 23:10:46 EEST 2022
+2022-04-28 23:12:03 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:12:03 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:12:03 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:12:04 INFO  ConvertTestListener:onStart:12 - Test Started....03_homework Thu Apr 28 23:12:04 EEST 2022
+2022-04-28 23:12:07 INFO  ConvertTestListener:onTestStart:21 - test checkExpensiveGood start
+2022-04-28 23:12:07 INFO  ConvertTestListener:onTestStart:22 - Priority of this method is 0
+2022-04-28 23:12:08 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-28 23:12:12 ERROR ConvertTestListener:onTestFailure:32 - 2Test [checkExpensiveGood] failed
+2022-04-28 23:12:12 ERROR ConvertTestListener:onTestFailure:35 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'akakiy-GL72-6QD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-109-generic', java.version: '11.0.14.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d9d9e8254b3b42114033f49df30f7b75, isElementDisplayed {id=d573f2cd-cb32-40de-a434-ba57d1e33946}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: /tmp/.com.google.Chrome.A00wsy}, goog:chromeOptions: {debuggerAddress: localhost:42593}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:42593/devtoo..., se:cdpVersion: 100.0.4896.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on LINUX (d9d9e8254b3b42114033f49df30f7b75)] -> css selector: select[class^='select']]
+Session ID: d9d9e8254b3b42114033f49df30f7b75
+2022-04-28 23:12:12 ERROR ConvertTestListener:onTestFailure:36 - Priority of this method is 0
+2022-04-28 23:12:12 INFO  ConvertTestListener:onFinish:17 - Test finished....Thu Apr 28 23:12:12 EEST 2022
+2022-04-28 23:12:43 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:12:43 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:12:43 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:12:44 INFO  ConvertTestListener:onStart:12 - Test Started....03_homework Thu Apr 28 23:12:44 EEST 2022
+2022-04-28 23:12:49 INFO  ConvertTestListener:onTestStart:21 - test checkExpensiveGood start
+2022-04-28 23:12:49 INFO  ConvertTestListener:onTestStart:22 - Priority of this method is 0
+2022-04-28 23:12:49 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-28 23:12:53 ERROR ConvertTestListener:onTestFailure:32 - 2Test [checkExpensiveGood] failed
+2022-04-28 23:12:53 ERROR ConvertTestListener:onTestFailure:35 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'akakiy-GL72-6QD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-109-generic', java.version: '11.0.14.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ab9b09382c0bdad37c4411f040b019e6, isElementDisplayed {id=3c751330-212c-4b50-88cc-08ea3c6ee405}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: /tmp/.com.google.Chrome.A9jU04}, goog:chromeOptions: {debuggerAddress: localhost:45187}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:45187/devtoo..., se:cdpVersion: 100.0.4896.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on LINUX (ab9b09382c0bdad37c4411f040b019e6)] -> css selector: select[class^='select']]
+Session ID: ab9b09382c0bdad37c4411f040b019e6
+2022-04-28 23:12:53 ERROR ConvertTestListener:onTestFailure:36 - Priority of this method is 0
+2022-04-28 23:12:53 INFO  ConvertTestListener:onFinish:17 - Test finished....Thu Apr 28 23:12:53 EEST 2022
+2022-04-28 23:13:20 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:13:20 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:13:20 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:13:20 INFO  ConvertTestListener:onStart:12 - Test Started....03_homework Thu Apr 28 23:13:20 EEST 2022
+2022-04-28 23:13:24 INFO  ConvertTestListener:onTestStart:21 - test checkExpensiveGood start
+2022-04-28 23:13:24 INFO  ConvertTestListener:onTestStart:22 - Priority of this method is 0
+2022-04-28 23:13:25 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-28 23:13:29 ERROR ConvertTestListener:onTestFailure:32 - 2Test [checkExpensiveGood] failed
+2022-04-28 23:13:29 ERROR ConvertTestListener:onTestFailure:35 - org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=100.0.4896.127)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'akakiy-GL72-6QD', ip: '127.0.1.1', os.name: 'Linux', os.arch: 'amd64', os.version: '5.4.0-109-generic', java.version: '11.0.14.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c0600746c277ce79daafcf28f4d6c463, isElementDisplayed {id=190bcf84-df44-49e5-b507-76698f8cf626}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.127, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: /tmp/.com.google.Chrome.PniwB9}, goog:chromeOptions: {debuggerAddress: localhost:33383}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), se:cdp: ws://localhost:33383/devtoo..., se:cdpVersion: 100.0.4896.127, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on LINUX (c0600746c277ce79daafcf28f4d6c463)] -> css selector: select[class^='select']]
+Session ID: c0600746c277ce79daafcf28f4d6c463
+2022-04-28 23:13:29 ERROR ConvertTestListener:onTestFailure:36 - Priority of this method is 0
+2022-04-28 23:13:29 INFO  ConvertTestListener:onFinish:17 - Test finished....Thu Apr 28 23:13:29 EEST 2022
+2022-04-28 23:13:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:13:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:13:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:13:46 INFO  ConvertTestListener:onStart:12 - Test Started....03_homework Thu Apr 28 23:13:46 EEST 2022
+2022-04-28 23:13:50 INFO  ConvertTestListener:onTestStart:21 - test checkExpensiveGood start
+2022-04-28 23:13:50 INFO  ConvertTestListener:onTestStart:22 - Priority of this method is 0
+2022-04-28 23:13:51 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-28 23:13:57 INFO  FirstCaseTest:checkExpensiveGood:76 - Test work!
+2022-04-28 23:13:57 INFO  ConvertTestListener:onTestSuccess:27 - test [checkExpensiveGood] Success
+2022-04-28 23:13:57 INFO  ConvertTestListener:onTestSuccess:28 - FirstCaseTest
+2022-04-28 23:13:57 INFO  ConvertTestListener:onFinish:17 - Test finished....Thu Apr 28 23:13:57 EEST 2022
+2022-04-28 23:16:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:16:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:16:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:16:58 INFO  ConvertTestListener:onStart:12 - Test Started....03_homework Thu Apr 28 23:16:58 EEST 2022
+2022-04-28 23:17:04 INFO  ConvertTestListener:onTestStart:21 - test checkExpensiveGoods start
+2022-04-28 23:17:04 INFO  ConvertTestListener:onTestStart:22 - Priority of this method is 0
+2022-04-28 23:17:04 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-28 23:17:11 INFO  FirstCaseTest:checkExpensiveGoods:50 - Test work!
+2022-04-28 23:17:11 INFO  ConvertTestListener:onTestSuccess:27 - test [checkExpensiveGoods] Success
+2022-04-28 23:17:11 INFO  ConvertTestListener:onTestSuccess:28 - FirstCaseTest
+2022-04-28 23:17:11 INFO  ConvertTestListener:onFinish:17 - Test finished....Thu Apr 28 23:17:11 EEST 2022
+2022-04-28 23:23:36 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:23:36 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:23:37 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:23:37 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:23:41 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-28 23:23:57 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-28 23:24:13 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-28 23:24:29 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-28 23:24:44 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-28 23:25:59 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:25:59 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:27:30 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:27:30 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:28:33 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:28:33 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:37:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:37:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:37:40 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:37:40 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:37:44 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-28 23:37:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:38:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:38:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:38:14 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:38:14 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:38:19 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-28 23:38:54 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:38:54 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:39:03 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-28 23:39:14 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:39:42 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:39:42 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-28 23:39:47 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-28 23:39:59 INFO  PropertiesReader:<init>:20 - Read config.properties

@@ -2,16 +2,16 @@
 <java version="11.0.14.1" class="java.beans.XMLDecoder">
  <object class="support.TestData">
   <void property="brand">
-   <string>MSI</string>
+   <string>Samsung</string>
   </void>
   <void property="minPrice">
-   <int>5000</int>
+   <int>14000</int>
   </void>
   <void property="product">
-   <string>Ноутбук</string>
+   <string>стиральная машина</string>
   </void>
   <void property="realPrice">
-   <int>217142</int>
+   <int>107576</int>
   </void>
  </object>
 </java>
