@@ -832,3 +832,574 @@ Session ID: c0600746c277ce79daafcf28f4d6c463
 2022-04-28 23:39:42 INFO  PropertiesReader:<init>:20 - Read config.properties
 2022-04-28 23:39:47 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
 2022-04-28 23:39:59 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 10:20:54 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 10:20:54 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 10:20:56 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 10:20:56 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 10:21:06 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 10:21:22 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 10:21:38 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 10:21:55 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 10:22:11 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 10:24:43 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 10:24:43 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 10:24:44 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 10:24:44 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 10:24:48 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 10:25:05 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 10:25:22 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 10:25:38 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 10:25:53 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 10:34:10 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 10:34:10 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 10:34:11 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 10:34:11 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 10:34:22 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 10:36:33 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 10:36:33 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 10:36:33 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 10:36:33 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 10:37:17 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 10:37:17 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 10:37:18 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 10:37:18 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:00:48 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:00:48 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:00:48 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:00:48 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:01:03 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:01:03 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:01:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:01:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:16:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:16:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:16:39 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:16:39 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:16:44 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:17:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:17:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:17:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:17:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:17:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:17:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:17:53 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:17:53 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:17:53 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:17:53 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:18:00 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:18:01 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:18:07 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:18:22 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:18:22 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:18:23 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:18:41 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:18:43 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:18:46 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:18:59 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:19:00 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:19:05 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:19:17 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:19:20 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:19:25 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:26:43 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:26:43 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:26:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:26:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:26:49 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:27:30 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:27:30 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:27:30 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:27:30 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:27:30 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:27:30 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:27:31 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:27:31 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:27:31 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:27:31 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:27:38 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:27:39 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:27:44 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:27:59 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:28:00 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:28:09 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:28:20 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:28:26 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:28:27 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:28:36 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:28:44 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:28:45 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:28:55 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:29:03 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:29:06 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:31:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:31:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:31:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:31:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:31:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:31:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:31:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:31:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:31:06 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:31:23 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:33:20 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:33:20 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:33:21 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:33:21 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:33:25 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:34:24 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:34:24 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:34:24 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:34:24 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:34:24 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:34:24 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:34:24 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:34:24 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:34:29 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:34:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:34:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:34:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:34:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:34:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:34:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:34:59 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:34:59 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:35:03 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:35:14 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:35:16 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:35:39 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:35:39 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:35:39 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:35:39 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:35:39 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:35:39 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:35:39 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:35:39 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:35:44 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:36:22 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:36:22 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:36:22 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:36:22 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:36:22 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:36:22 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:36:23 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:36:23 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:36:27 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:38:03 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:38:03 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:38:03 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:38:03 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:38:07 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:38:24 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:38:44 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:39:00 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:39:16 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:39:55 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:39:55 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:39:55 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:39:55 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:39:55 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:39:55 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:39:56 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:39:56 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:39:56 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:39:56 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:40:03 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:40:03 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:40:09 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:40:28 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:40:29 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:40:34 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:40:49 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:40:53 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:40:54 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:41:07 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:41:09 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:41:11 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:41:26 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:41:28 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:41:39 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:52:11 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:52:11 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:52:12 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:52:12 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:52:17 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:53:18 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:53:18 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:53:19 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:53:19 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:53:19 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:53:19 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:54:00 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:54:00 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:54:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:54:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:54:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:54:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:54:08 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 11:54:08 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:54:08 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:54:08 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:54:08 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:54:08 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:54:08 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:54:08 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:57:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 11:57:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:24:03 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:24:03 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:24:03 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:24:03 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:24:03 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:24:03 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:24:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:24:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:24:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:24:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:24:11 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 12:24:11 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 12:24:17 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 12:26:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:26:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:26:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:26:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:26:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:26:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:26:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:26:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:26:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:26:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:26:57 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 12:27:40 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:27:40 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:27:40 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:27:40 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:27:40 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:27:40 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:31:32 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:31:32 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:31:32 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:31:32 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:31:32 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:31:32 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:31:33 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:31:33 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:31:33 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:31:33 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:31:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:31:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:31:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:31:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:31:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:31:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:31:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:31:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:31:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:31:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:32:59 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:32:59 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:32:59 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:32:59 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:33:07 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 12:33:26 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:33:26 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:33:26 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:33:26 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:33:26 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:33:26 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:33:26 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:33:26 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:33:26 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:33:26 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:35:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:35:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:35:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:35:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:35:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:35:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:35:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:35:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:35:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:35:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:37:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:37:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:37:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:37:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:37:16 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:37:16 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:37:17 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:37:17 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:44:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:44:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:44:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 12:44:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:00:48 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:00:48 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:00:48 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:00:48 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:01:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:01:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:01:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:01:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:03:17 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:03:17 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:03:18 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:03:18 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:04:39 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:04:39 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:05:25 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:05:25 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:05:31 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:05:31 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:05:32 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:05:32 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:05:36 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:06:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:06:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:06:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:06:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:06:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:06:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:06:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:06:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:06:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:06:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:06:14 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:06:17 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:06:19 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:07:56 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:07:56 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:07:57 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:07:57 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:08:41 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:08:41 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:08:42 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:08:42 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:09:21 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:09:21 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:09:21 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:09:21 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:09:26 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:10:37 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:10:37 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:10:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:10:38 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:11:16 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:11:16 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:11:17 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:11:17 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:11:21 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:11:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:11:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:11:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:11:45 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:11:50 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:12:12 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:12:12 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:12:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:12:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:12:18 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:14:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:14:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:14:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:14:09 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:15:25 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:15:25 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:18:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:18:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:18:14 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:18:14 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:18:36 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:18:36 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:18:36 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:18:36 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:19:05 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:19:05 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:19:05 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:19:05 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:19:18 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:19:18 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:19:18 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:19:18 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:19:18 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:19:48 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:19:48 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:19:48 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:20:07 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:20:07 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:20:07 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:20:07 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:20:35 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:20:35 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:20:35 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:20:35 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:20:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:20:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:20:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:20:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:22:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:22:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:22:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:22:01 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:22:19 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:22:19 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:22:19 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:22:19 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:23:27 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:23:27 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:23:27 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:23:27 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:24:06 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:24:06 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:24:06 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:24:06 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:24:39 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:24:39 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:24:55 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:24:55 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:24:57 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:24:57 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:24:57 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:24:57 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:25:22 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:25:22 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:25:23 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:25:23 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:25:59 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:25:59 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:25:59 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:25:59 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:26:03 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:26:24 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:26:24 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:26:24 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:26:24 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:27:28 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:27:28 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:27:28 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:27:28 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:27:57 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:28:31 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:28:31 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:28:32 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:28:32 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:29:27 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:29:27 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:29:28 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:29:28 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:29:32 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:29:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:29:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:29:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:29:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:29:58 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:30:22 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:30:22 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:30:23 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:30:23 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:30:27 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:30:59 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:30:59 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:30:59 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:30:59 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:31:04 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:31:20 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:31:35 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:31:51 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:32:07 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:32:49 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:32:49 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:32:50 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:32:50 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:33:57 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:33:57 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:33:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:33:58 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:34:07 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:34:07 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:34:07 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:34:07 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:34:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:34:13 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:34:14 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:34:14 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:34:34 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:34:34 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:34:34 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:34:34 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:34:47 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:34:47 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:34:47 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:34:47 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:35:02 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:35:02 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:35:02 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:35:02 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:35:12 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:35:12 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:35:47 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:35:47 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:35:50 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:35:50 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:35:50 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:35:50 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:35:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:35:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:36:21 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:36:21 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:36:24 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:36:24 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:37:57 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:37:57 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:38:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:38:04 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:38:19 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:38:36 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:38:36 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:38:37 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:38:37 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:38:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:38:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:38:52 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:39:06 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:39:06 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:39:23 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:39:44 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:39:46 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:39:59 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:39:59 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:39:59 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:40:34 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:40:34 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:40:35 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:40:35 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:42:23 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:42:23 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:42:24 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:42:24 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:42:29 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:42:44 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:43:02 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:43:18 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:43:33 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:44:25 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:44:25 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:44:25 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:44:25 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:44:31 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:44:47 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:45:03 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:46:28 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:46:28 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:46:28 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:46:28 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:46:28 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:46:28 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:46:28 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:46:28 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:46:28 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:46:28 INFO  PropertiesReader:<init>:20 - Read config.properties
+2022-04-29 13:46:36 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:46:36 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:46:43 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:47:00 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item
+2022-04-29 13:47:17 INFO  SearchPage:clickCheckBoxMsi:55 - Not search item

@@ -1,11 +1,10 @@
 package support;
 
 import java.util.Arrays;
-import java.util.logging.Logger;
 
 import static support.XmlTestData.ReadXml;
 
-public class main {
+public class simpleExample {
     /**
      * It is not supporting file. It is simple test work file
      */

@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Suite Successively" verbose="1">
+    <test name="One test run">
+        <classes>
+            <class name="SuccessivelyCaseTest">
+                <methods>
+                    <include name="checkFlowData"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

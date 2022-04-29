@@ -1,6 +1,5 @@
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.DataProvider;
-import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;
 import page.BucketPage;
@@ -10,42 +9,64 @@ import support.ListTestData;
 import support.PropertiesReader;
 import support.TestData;
 
+import java.util.Arrays;
 import java.util.List;
 
 import static support.XmlTestData.ReadXml;
 import static support.XmlTestData.WriteXml;
 
-public class SuccessivelyCaseTest extends BaseTest{
+public class ParallelCaseTest extends BaseTest {
 
     PropertiesReader properties = new PropertiesReader();
 
-    @DataProvider
-    public Object[][] getDataRead(){
+    private static Object[][] selectItems(int start, int finish) {
         PropertiesReader properties = new PropertiesReader();
         String path = properties.getInitialListData();
-        ListTestData listTestData =  new ListTestData(ReadXml(path));
+        ListTestData listTestData = new ListTestData(ReadXml(path));
         int row = listTestData.getListTestData().size();
-        Object[][] data = new Object[row][3];
+        if (row < finish)
+            finish = row;
+        Object[][] data = new Object[finish - start][3];
+        int number = 0;
         for (int i = 0; i < row; i++) {
-            TestData item = listTestData.getListTestData().get(i);
-            data[i][0] = item.getProduct();
-            data[i][1] = item.getBrand();
-            data[i][2] = item.getMinPrice();
+            if (i >= start && finish > i) {
+                TestData item = listTestData.getListTestData().get(i);
+                data[number][0] = item.getProduct();
+                data[number][1] = item.getBrand();
+                data[number][2] = item.getMinPrice();
+                number = number +1;
+            }
         }
         return data;
     }
 
-    @DataProvider
-    public Object[][] getData(){
-        return new Object[][] {
-                {"ноутбук", "MSI", 5000}
-                ,{"стиральная машина", "Samsung", 14000}
-                ,{"посудомоечная машина", "Bosch", 50000}
-        };
+    @DataProvider()
+    public Object[][] getDataRead1() {
+        return selectItems(0,1);
     }
 
-    @Test(dataProvider = "getDataRead", description = "run successively test")
-    public void checkFlowData(String product, String brand, Integer minPrice) throws InterruptedException {
+    @Test(dataProvider = "getDataRead1", description = "run successively test")
+    public void checkFlowData1(String product, String brand, Integer minPrice) throws InterruptedException {
+        testFlow(product, brand, minPrice);
+    }
+
+    @DataProvider()
+    public Object[][] getDataRead2() {
+        return selectItems(1,2);
+    }
+
+    @Test(dataProvider = "getDataRead2", description = "run successively test")
+    public void checkFlowData2(String product, String brand, Integer minPrice) throws InterruptedException {
+        testFlow(product, brand, minPrice);
+    }
+
+    @DataProvider()
+    public Object[][] getDataRead3() {
+        return selectItems(2,6);
+    }
+
+    @Test(dataProvider = "getDataRead3", description = "run successively test")
+    public void checkFlowData3(String product, String brand, Integer minPrice) throws InterruptedException {
         testFlow(product, brand, minPrice);
     }
 
@@ -76,9 +97,4 @@ public class SuccessivelyCaseTest extends BaseTest{
         WriteXml(testData, properties.getResultListData());
     }
 
-    @Parameters({ "product", "brand", "minPrise" })
-    @Test(description = "run successively test from xml file")
-    public void checkFlowDataXml(String product, String brand, Integer minPrice) throws InterruptedException {
-        testFlow(product, brand, minPrice);
-    }
 }
